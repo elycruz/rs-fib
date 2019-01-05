@@ -1,0 +1,7 @@
+[package]
+name = "rs-fib"
+version = "0.1.0"
+authors = ["Ely De La Cruz <elycruz@elycruz.com>"]
+edition = "2018"
+
+[dependencies]
